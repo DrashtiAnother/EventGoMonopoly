@@ -1,58 +1,44 @@
 [
   {
-    "name": "gamexlite-july-18-rewards-link",
-    "active": true,
-    "URL": "https://mply.io/1XOzA_1oywg?ref=gamexlite.com",
-    "startDate": "July 21",
-    "endDate": "July 24",
+    "name": "gamexlite-Aug-25-rewards-link",
+    "url": "https://mply.io/1XOzA_1oywg?ref=gamexlite.com",
+    "startDate": "Aug 29",
+    "endDate": "Sep 5",
+    "rewards": 25
+  },
+  {
+    "name": "gamexlite-Aug-8-rewards-link",
+    "url": "https://mply.io/1XOzA_1oywg?ref=gamexlite.com",
+    "startDate": "Aug 21",
+    "endDate": "Aug 29",
     "rewards": 20
   },
   {
     "name": "gamexlite-july-18-rewards-link",
-    "active": false,
-    "URL": "https://mply.io/1XOzA_1oywg?ref=gamexlite.com",
-    "startDate": "",
-    "endDate": "",
+    "url": "https://mply.io/1XOzA_1oywg?ref=gamexlite.com",
+    "startDate": "July 24",
+    "endDate": "July 24",
     "rewards": 25
   },
   {
     "name": "gamexlite-july-18-rewards-link",
-    "active": true,
-    "URL": "https://mply.io/1XOzA_1oywg?ref=gamexlite.com",
-    "startDate": "",
-    "endDate": "",
-    "rewards": 30
-  },
-  {
-    "name": "gamexlite-july-18-rewards-link",
-    "active": false,
-    "URL": "https://mply.io/1XOzA_1oywg?ref=gamexlite.com",
-    "startDate": "",
-    "endDate": "",
+    "url": "https://mply.io/1XOzA_1oywg?ref=gamexlite.com",
+    "startDate": "July 26",
+    "endDate": "July 29",
     "rewards": 25
   },
   {
     "name": "gamexlite-july-18-rewards-link",
-    "active": false,
-    "URL": "https://mply.io/1XOzA_1oywg?ref=gamexlite.com",
-    "startDate": "",
-    "endDate": "",
+    "url": "https://mply.io/1XOzA_1oywg?ref=gamexlite.com",
+    "startDate": "July 24",
+    "endDate": "July 24",
     "rewards": 25
   },
   {
     "name": "gamexlite-july-18-rewards-link",
-    "active": true,
-    "URL": "https://mply.io/1XOzA_1oywg?ref=gamexlite.com",
-    "startDate": "",
-    "endDate": "",
-    "rewards": 30
-  },
-  {
-    "name": "gamexlite-july-18-rewards-link",
-    "active": false,
-    "URL": "https://mply.io/1XOzA_1oywg?ref=gamexlite.com",
-    "startDate": "",
-    "endDate": "",
+    "url": "https://mply.io/1XOzA_1oywg?ref=gamexlite.com",
+    "startDate": "July 26",
+    "endDate": "July 29",
     "rewards": 25
   }
 ]
