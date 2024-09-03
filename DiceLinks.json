@@ -1,44 +1,65 @@
 [
-  {
-    "name": "gamexlite-Aug-25-rewards-link",
-    "url": "https://mply.io/1XOzA_1oywg?ref=gamexlite.com",
-    "startDate": "Aug 29",
-    "endDate": "Sep 5",
-    "rewards": 25
-  },
-  {
-    "name": "gamexlite-Aug-8-rewards-link",
-    "url": "https://mply.io/1XOzA_1oywg?ref=gamexlite.com",
-    "startDate": "Aug 21",
-    "endDate": "Aug 29",
-    "rewards": 20
-  },
-  {
-    "name": "gamexlite-july-18-rewards-link",
-    "url": "https://mply.io/1XOzA_1oywg?ref=gamexlite.com",
-    "startDate": "July 24",
-    "endDate": "July 24",
-    "rewards": 25
-  },
-  {
-    "name": "gamexlite-july-18-rewards-link",
-    "url": "https://mply.io/1XOzA_1oywg?ref=gamexlite.com",
-    "startDate": "July 26",
-    "endDate": "July 29",
-    "rewards": 25
-  },
-  {
-    "name": "gamexlite-july-18-rewards-link",
-    "url": "https://mply.io/1XOzA_1oywg?ref=gamexlite.com",
-    "startDate": "July 24",
-    "endDate": "July 24",
-    "rewards": 25
-  },
-  {
-    "name": "gamexlite-july-18-rewards-link",
-    "url": "https://mply.io/1XOzA_1oywg?ref=gamexlite.com",
-    "startDate": "July 26",
-    "endDate": "July 29",
-    "rewards": 25
-  }
+    {
+        "name": "GoMonopoly-sep-01-rewards-link",
+        "url": "https://mply.io/pFnZbaJ7ceY?ref=gamexlite.com",
+        "startDate": "Sep 1",
+        "endDate": "Sep 4",
+        "rewards": 25
+    },
+    {
+        "name": "GoMonopoly-sep-31-rewards-link",
+        "url": "https://mply.io/k79kujeMIbM?ref=gamexlite.com",
+        "startDate": "Aug 31",
+        "endDate": "Sep 3",
+        "rewards": 25
+    },
+    {
+        "name": "GoMonopoly-sep-31-rewards-link",
+        "url": "https://mply.io/iMhDqp6iGTg?ref=gamexlite.com",
+        "startDate": "Aug 31",
+        "endDate": "Sep 3",
+        "rewards": 30
+    },
+    {
+        "name": "GoMonopoly-sep-30-rewards-link",
+        "url": "https://mply.io/iMhDqp6iGTg?ref=gamexlite.com",
+        "startDate": "Aug 30",
+        "endDate": "Sep 2",
+        "rewards": 25
+    },
+    {
+        "name": "GoMonopoly-sep-30-rewards-link",
+        "url": "https://mply.io/wRVl_dFmovE?ref=gamexlite.com",
+        "startDate": "Aug 30",
+        "endDate": "Sep 2",
+        "rewards": 25
+    },
+    {
+        "name": "GoMonopoly-sep-29-rewards-link",
+        "url": "https://mply.io/kX64KWfvWDs?ref=gamexlite.com",
+        "startDate": "Aug 29",
+        "endDate": "Sep 2",
+        "rewards": 25
+    },
+    {
+        "name": "GoMonopoly-sep-29-rewards-link",
+        "url": "https://mply.io/h5pxfEUnstI?ref=gamexlite.com",
+        "startDate": "Aug 29",
+        "endDate": "Sep 2",
+        "rewards": 25
+    },
+    {
+        "name": "GoMonopoly-sep-29-rewards-link",
+        "url": "https://mply.io/h5pxfEUnstI?ref=gamexlite.com",
+        "startDate": "Aug 29",
+        "endDate": "Sep 2",
+        "rewards": 25
+    },
+    {
+        "name": "GoMonopoly-sep-29-rewards-link",
+        "url": "https://mply.io/h5pxfEUnstI?ref=gamexlite.com",
+        "startDate": "Aug 29",
+        "endDate": "Sep 2",
+        "rewards": 25
+    }
 ]
